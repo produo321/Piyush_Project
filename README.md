@@ -1,4 +1,4 @@
 # Piyush_Project
-<h2>C++</h2>
-<h2>DSA</h2>
-<h2>WEB development</h2>
+<h3>C++</h3>
+<h3>DSA</h3>
+<h3>WEB development</h3>
